@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dhaman Kovachi
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Javascript Frameworks
+- 🌱 I’m currently learning Data Structures & Algorithms for future uses.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
